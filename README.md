@@ -57,7 +57,4 @@ ETH: 0xF5ea71c5b98A33f9B8Dc9ae64F681488Ec7308E0
 
 * This tool is official and completely free to use. Do not buy if anyone tries to sell by copying script
 
-# News
 
-* I have also created a scraper and adder which lets you add accounts only via phone number(no api needed). If you need it contact me:
- 
